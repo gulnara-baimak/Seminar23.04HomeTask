@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.AssemblyInfo.cs
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\семинар 23.04\Start5\bin\Debug\net6.0\Start5.exe
+C:\Users\HP\Desktop\семинар 23.04\Start5\bin\Debug\net6.0\Start5.deps.json
+C:\Users\HP\Desktop\семинар 23.04\Start5\bin\Debug\net6.0\Start5.runtimeconfig.json
+C:\Users\HP\Desktop\семинар 23.04\Start5\bin\Debug\net6.0\Start5.dll
+C:\Users\HP\Desktop\семинар 23.04\Start5\bin\Debug\net6.0\Start5.pdb
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.dll
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\refint\Start5.dll
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.pdb
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\Start5.genruntimeconfig.cache
+C:\Users\HP\Desktop\семинар 23.04\Start5\obj\Debug\net6.0\ref\Start5.dll
